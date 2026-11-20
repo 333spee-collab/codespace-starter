@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "more.html",
+    "href": "more.html",
+    "title": "More: How Much AI Art Is Being Used",
+    "section": "",
+    "text": "Across our two datasets, AI art usage grew from a small niche in early 2021 into hundreds of thousands of shared works by early 2023:\n\nSocial media AI art (TWIGMA): 797,203 AI-generated art posts tracked in monthly totals from January 2021 through March 2023 (from an overall release of 805,650 images), generating 15,188,062 total likes. Monthly volume jumped from 789 posts in January 2021 to 211,851 posts in March 2023.\nBenchmark AI art (AI-ArtBench): 125,000 AI-generated images (12,500 per style across 10 major art movements) produced with Latent Diffusion and Stable Diffusion.\n\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "more.html#rapid-growth-in-ai-art-usage",
+    "href": "more.html#rapid-growth-in-ai-art-usage",
+    "title": "More: How Much AI Art Is Being Used",
+    "section": "",
+    "text": "Across our two datasets, AI art usage grew from a small niche in early 2021 into hundreds of thousands of shared works by early 2023:\n\nSocial media AI art (TWIGMA): 797,203 AI-generated art posts tracked in monthly totals from January 2021 through March 2023 (from an overall release of 805,650 images), generating 15,188,062 total likes. Monthly volume jumped from 789 posts in January 2021 to 211,851 posts in March 2023.\nBenchmark AI art (AI-ArtBench): 125,000 AI-generated images (12,500 per style across 10 major art movements) produced with Latent Diffusion and Stable Diffusion.\n\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "other.html",
+    "href": "other.html",
+    "title": "Other: How Much Physical Art Has Been Used",
+    "section": "",
+    "text": "In the ArtBench-10 / AI-ArtBench dataset, 60,000 human-made physical artworks are used as the foundational benchmark for traditional art. To ensure every artistic movement is equally represented without bias toward a single era, the dataset curates exactly 6,000 physical artworks in each of 10 historical styles from public museum and gallery archives (WikiArt, Ukiyo-e.org, and Surrealism.website).\nBy contrast, AI-ArtBench pairs those 6,000 physical artworks per style against 12,500 AI-generated artworks per style—more than double the physical count in every category.\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "other.html#physical-art-representation-across-historical-styles",
+    "href": "other.html#physical-art-representation-across-historical-styles",
+    "title": "Other: How Much Physical Art Has Been Used",
+    "section": "",
+    "text": "In the ArtBench-10 / AI-ArtBench dataset, 60,000 human-made physical artworks are used as the foundational benchmark for traditional art. To ensure every artistic movement is equally represented without bias toward a single era, the dataset curates exactly 6,000 physical artworks in each of 10 historical styles from public museum and gallery archives (WikiArt, Ukiyo-e.org, and Surrealism.website).\nBy contrast, AI-ArtBench pairs those 6,000 physical artworks per style against 12,500 AI-generated artworks per style—more than double the physical count in every category.\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This project combines two public research datasets found in November 2026 to compare the rise of AI-generated artwork with human-made physical artwork.\n\n\n\nWhere and when it was found: Hosted on Zenodo (Record 8031785), originally published in 2023 (NeurIPS 2023 Datasets and Benchmarks Track) by Stanford researchers Yiqun T. Chen and James Zou, and accessed for this project in November 2026.\nHow they got the data: The researchers collected roughly 2.2 million tweets posted on Twitter/X between January 2021 and March 2023 that matched generative-AI art hashtags and keywords (such as #dalle, #stablediffusion, #midjourney, and #aiart). After filtering out duplicates and non-AI images, they compiled 805,650 AI-generated artworks along with post dates and engagement metrics (such as likes).\n\n\n\n\n\nWhere and when it was found: Hosted on Kaggle (AI-ArtBench and ArtBench-10), built on Peiyuan Liao et al.’s 2022 ArtBench-10 benchmark and expanded into AI-ArtBench in 2023, accessed for this project in November 2026.\nHow they got the data:\n\nPhysical (human-made) artworks (60,000 images): Curated by Liao et al. (UC Berkeley and CMU) from public online art archives—primarily WikiArt.org, Ukiyo-e.org (Japanese woodblock prints), and Surrealism.website—cleaned and balanced to include exactly 6,000 artworks across each of 10 historical art styles.\nAI-generated artworks (125,000 images): Created by prompting Latent Diffusion and Stable Diffusion models to generate synthetic artworks matching those same 10 historical art styles."
+  },
+  {
+    "objectID": "about.html#data-sources-and-collection",
+    "href": "about.html#data-sources-and-collection",
+    "title": "About",
+    "section": "",
+    "text": "This project combines two public research datasets found in November 2026 to compare the rise of AI-generated artwork with human-made physical artwork.\n\n\n\nWhere and when it was found: Hosted on Zenodo (Record 8031785), originally published in 2023 (NeurIPS 2023 Datasets and Benchmarks Track) by Stanford researchers Yiqun T. Chen and James Zou, and accessed for this project in November 2026.\nHow they got the data: The researchers collected roughly 2.2 million tweets posted on Twitter/X between January 2021 and March 2023 that matched generative-AI art hashtags and keywords (such as #dalle, #stablediffusion, #midjourney, and #aiart). After filtering out duplicates and non-AI images, they compiled 805,650 AI-generated artworks along with post dates and engagement metrics (such as likes).\n\n\n\n\n\nWhere and when it was found: Hosted on Kaggle (AI-ArtBench and ArtBench-10), built on Peiyuan Liao et al.’s 2022 ArtBench-10 benchmark and expanded into AI-ArtBench in 2023, accessed for this project in November 2026.\nHow they got the data:\n\nPhysical (human-made) artworks (60,000 images): Curated by Liao et al. (UC Berkeley and CMU) from public online art archives—primarily WikiArt.org, Ukiyo-e.org (Japanese woodblock prints), and Surrealism.website—cleaned and balanced to include exactly 6,000 artworks across each of 10 historical art styles.\nAI-generated artworks (125,000 images): Created by prompting Latent Diffusion and Stable Diffusion models to generate synthetic artworks matching those same 10 historical art styles."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI Art vs. Physical Art Usage (2021–2023)",
+    "section": "",
+    "text": "Because TWIGMA (Zenodo) tracks 805,650 AI-generated artworks shared over time (Jan 2021 – Mar 2023) while AI-ArtBench (Kaggle) provides a static benchmark of 60,000 physical (human-made) artworks and 125,000 AI artworks across 10 historical styles, the scatter plot below shows monthly AI art volume over time alongside the AI-ArtBench physical and AI art benchmarks.\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "index.html#scatter-plot-monthly-ai-art-usage-vs.-physical-art-benchmark",
+    "href": "index.html#scatter-plot-monthly-ai-art-usage-vs.-physical-art-benchmark",
+    "title": "AI Art vs. Physical Art Usage (2021–2023)",
+    "section": "",
+    "text": "Because TWIGMA (Zenodo) tracks 805,650 AI-generated artworks shared over time (Jan 2021 – Mar 2023) while AI-ArtBench (Kaggle) provides a static benchmark of 60,000 physical (human-made) artworks and 125,000 AI artworks across 10 historical styles, the scatter plot below shows monthly AI art volume over time alongside the AI-ArtBench physical and AI art benchmarks.\n\n\n\n\n\n\n\n\nFigure 1"
+  }
+]
